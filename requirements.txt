@@ -1,0 +1,7 @@
+click
+Flask
+beautifulsoup4
+requests
+python-firebase
+flask-redis
+Flask-RQ2
